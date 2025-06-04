@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0eba960-c762-4e70-ada2-59a94ebef55e" name="Changes" comment="" />
+    <list default="true" id="f0eba960-c762-4e70-ada2-59a94ebef55e" name="Changes" comment="Compute eigenvalues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ruidongsmile"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ruidongsmile/UpPersLapCubicalComplex.git",
+    "accountId": "b14221c9-eedb-40ec-836e-4de46629ee62"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -27,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/rui/Desktop/UpPersLapCubicalComplex",
+    "last_opened_file_path": "/home/rui/Desktop/up_persistent_laplacian_computing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,7 +51,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-dfff61a61320-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -51,11 +64,33 @@
       <option name="presentableId" value="Default" />
       <updated>1747939616544</updated>
       <workItem from="1747939617585" duration="542000" />
+      <workItem from="1747945560082" duration="815000" />
     </task>
+    <task id="LOCAL-00001" summary="Compute eigenvalues">
+      <option name="closed" value="true" />
+      <created>1747946238407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747946238407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Compute eigenvalues">
+      <option name="closed" value="true" />
+      <created>1747946367383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747946367383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Compute eigenvalues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compute eigenvalues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
