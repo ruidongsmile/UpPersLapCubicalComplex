@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0eba960-c762-4e70-ada2-59a94ebef55e" name="Changes" comment="Compute largest eigenvalues and singular values">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_smallest_eigenvalues_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/plots/computing_time_smallest_eigenvalues_2.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1749058359090" duration="196000" />
       <workItem from="1749058925929" duration="666000" />
       <workItem from="1749060984502" duration="7700000" />
-      <workItem from="1749097574931" duration="512000" />
+      <workItem from="1749097574931" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="Compute eigenvalues">
       <option name="closed" value="true" />
@@ -136,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749101208488</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Compute largest eigenvalues and singular values">
+      <option name="closed" value="true" />
+      <created>1749106419746</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749106419746</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Compute largest eigenvalues and singular values">
+      <option name="closed" value="true" />
+      <created>1749106429359</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749106429359</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
