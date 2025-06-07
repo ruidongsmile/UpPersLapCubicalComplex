@@ -7,8 +7,7 @@
     <list default="true" id="f0eba960-c762-4e70-ada2-59a94ebef55e" name="Changes" comment="Compute largest eigenvalues and singular values">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/compute_time_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments/compute_time_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues.png" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,7 @@
       <workItem from="1749097574931" duration="1910000" />
       <workItem from="1749101399508" duration="379000" />
       <workItem from="1749102094896" duration="1185000" />
-      <workItem from="1749105926514" duration="3251000" />
+      <workItem from="1749105926514" duration="5187000" />
     </task>
     <task id="LOCAL-00001" summary="Compute eigenvalues">
       <option name="closed" value="true" />
@@ -166,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749107014843</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Compute largest eigenvalues and singular values">
+      <option name="closed" value="true" />
+      <created>1749331496326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749331496326</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
