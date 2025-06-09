@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0eba960-c762-4e70-ada2-59a94ebef55e" name="Changes" comment="Compute largest eigenvalues and singular values">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_largest_eigenvalues_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_smallest_eigenvalues_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_smallest_eigenvalues_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_smallest_eigenvalues_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_smallest_eigenvalues_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_time_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_time_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_time_3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/compute_time_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/compute_time_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_in_macbook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_in_windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_3_macbook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_3_windows.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_2_mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_3_mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_largest_eigenvalues_mac.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_smallest_eigenvalues.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/plots/computing_time_smallest_eigenvalues_2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +52,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ruidongsmile/UpPersLapCubicalComplex.git&quot;,
-    &quot;accountId&quot;: &quot;c5753b69-80f2-4a9c-975a-c9c8b0b70398&quot;
+    &quot;accountId&quot;: &quot;b14221c9-eedb-40ec-836e-4de46629ee62&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,7 +70,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;eigenvalues&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rui/Desktop/up_persistent_laplacian_computing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rui/Desktop/UpPersLapCubicalComplex&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +104,8 @@
       <workItem from="1749101399508" duration="379000" />
       <workItem from="1749102094896" duration="1185000" />
       <workItem from="1749105926514" duration="5187000" />
+      <workItem from="1749454007308" duration="4778000" />
+      <workItem from="1749464881982" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="Compute eigenvalues">
       <option name="closed" value="true" />
